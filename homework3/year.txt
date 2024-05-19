@@ -1,0 +1,19 @@
+# of books: 17 (1980 <= year <= 2000)
+ISBN: 978-1292153619, Title: A Reaper at the Gates, Author: Sabaa Tahir, Price; 50.0, Year: 2000
+ISBN: 978-1292153622, Title: All We Ever Wanted, Author: Emily Giffin, Price; 48.0, Year: 1995
+ISBN: 978-1292153630, Title: Bellewether, Author: Susanna Kearsley, Price; 23.0, Year: 1985
+ISBN: 978-1292153606, Title: How to Walk Away, Author: Katherine Center, Price; 25.0, Year: 1984
+ISBN: 978-1292153631, Title: Pieces of Her, Author: Karin Slaughter, Price; 11.0, Year: 1984
+ISBN: 978-1292153607, Title: The Haunted Queen, Author: Alison Weir, Price; 36.0, Year: 1988
+ISBN: 978-1292153632, Title: The Proposal, Author: Jasmine Guillory, Price; 4.0, Year: 1988
+ISBN: 978-1292153623, Title: The Summer Wives, Author: Beatriz Williams, Price; 136.0, Year: 1990
+ISBN: 978-1292153625, Title: When We Found Home, Author: Susan Mallery, Price; 15.0, Year: 1990
+ISBN: 978-1292153614, Title: Calypso, Author: David Sedaris, Price; 58.0, Year: 1995
+ISBN: 978-1292153611, Title: Mem, Author: Bethany C. Morrow, Price; 29.23, Year: 1999
+ISBN: 978-1292153602, Title: That Kind of Mother, Author: Rumaan Alam, Price; 10.81, Year: 1995
+ISBN: 978-1292153615, Title: The President Is Missing, Author: James Patterson and Bill Clinton, Price; 120.0, Year: 1995
+ISBN: 978-1292153610, Title: The Outsider, Author: Stephen King, Price; 16.0, Year: 1999
+ISBN: 978-1292153609, Title: By Invitation Only, Author: Dorothea Benton Frank, Price; 5.0, Year: 2000
+ISBN: 978-1292153612, Title: The Death of Mrs. Westaway, Author: Ruth Ware, Price; 33.11, Year: 2000
+ISBN: 978-1292153618, Title: The Kiss Quotient, Author: Helen Hoang, Price; 170.0, Year: 2000
+

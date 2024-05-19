@@ -1,0 +1,17 @@
+# of books: 15 (50.0<= price <= 200.0)
+ISBN: 978-1292153627, Title: A Duke by Default, Author: Alyssa Cole, Price; 80.03, Year: 1910
+ISBN: 978-1292153619, Title: A Reaper at the Gates, Author: Sabaa Tahir, Price; 50.0, Year: 2000
+ISBN: 978-1292153629, Title: An Unwanted Guest, Author: Shari Lapena, Price; 57.23, Year: 2018
+ISBN: 978-1292153600, Title: The Perfect Mother, Author: Aimee Molloy, Price; 56.23, Year: 2012
+ISBN: 978-1292153614, Title: Calypso, Author: David Sedaris, Price; 58.0, Year: 1995
+ISBN: 978-1292153626, Title: Cottage by the Sea, Author: Debbie Macomber, Price; 77.21, Year: 1901
+ISBN: 978-1292153599, Title: Love and  Ruin, Author: Paula McLain, Price; 100.02, Year: 2001
+ISBN: 978-1292153628, Title: The Court Dancer, Author: Kyung-Sook Shin, Price; 99.11, Year: 2012
+ISBN: 978-1292153617, Title: The Word Is Murder, Author: Anthony Horowitz, Price; 89.0, Year: 2001
+ISBN: 978-1292153605, Title: The Favorite Sister, Author: Jessica Knoll, Price; 130.11, Year: 2013
+ISBN: 978-1292153615, Title: The President Is Missing, Author: James Patterson and Bill Clinton, Price; 120.0, Year: 1995
+ISBN: 978-1292153616, Title: When Life Gives You Lululemons, Author: Lauren Weisberger, Price; 112.0, Year: 2012
+ISBN: 978-1292153618, Title: The Kiss Quotient, Author: Helen Hoang, Price; 170.0, Year: 2000
+ISBN: 978-1292153623, Title: The Summer Wives, Author: Beatriz Williams, Price; 136.0, Year: 1990
+ISBN: 978-1292153603, Title: Warlight, Author: Michael Ondaatje, Price; 150.23, Year: 1970
+

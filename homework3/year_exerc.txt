@@ -1,0 +1,8 @@
+# of books: 6 (1980 <= year <= 2000)
+ISBN: 978-1292153622, Title: All We Ever Wanted, Author: Emily Giffin, Price; 48.0, Year: 1995
+ISBN: 978-1292153623, Title: The Summer Wives, Author: Beatriz Williams, Price; 136.0, Year: 1990
+ISBN: 978-1292153625, Title: When We Found Home, Author: Susan Mallery, Price; 15.0, Year: 1990
+ISBN: 978-1292153614, Title: Calypso, Author: David Sedaris, Price; 58.0, Year: 1995
+ISBN: 978-1292153602, Title: That Kind of Mother, Author: Rumaan Alam, Price; 10.81, Year: 1995
+ISBN: 978-1292153615, Title: The President Is Missing, Author: James Patterson and Bill Clinton, Price; 120.0, Year: 1995
+

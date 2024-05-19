@@ -1,0 +1,9 @@
+# of books: 7 (100.0<= price <= 180.0)
+ISBN: 978-1292153599, Title: Love and  Ruin, Author: Paula McLain, Price; 100.02, Year: 2001
+ISBN: 978-1292153605, Title: The Favorite Sister, Author: Jessica Knoll, Price; 130.11, Year: 2013
+ISBN: 978-1292153615, Title: The President Is Missing, Author: James Patterson and Bill Clinton, Price; 120.0, Year: 1995
+ISBN: 978-1292153616, Title: When Life Gives You Lululemons, Author: Lauren Weisberger, Price; 112.0, Year: 2012
+ISBN: 978-1292153618, Title: The Kiss Quotient, Author: Helen Hoang, Price; 170.0, Year: 2000
+ISBN: 978-1292153623, Title: The Summer Wives, Author: Beatriz Williams, Price; 136.0, Year: 1990
+ISBN: 978-1292153603, Title: Warlight, Author: Michael Ondaatje, Price; 150.23, Year: 1970
+
