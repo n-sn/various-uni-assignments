@@ -1,0 +1,5 @@
+/tmp$ powerpc-linux-gnu-gcc -S powerpc.c 
+/tmp$ powerpc-linux-gnu-gcc -S -O2 -o powerpc-O2.s powerpc.c 
+/tmp$ less powerpc-O2.s 
+/tmp$ powerpc-linux-gnu-gcc -o powerpc powerpc.c
+/tmp$ powerpc-linux-gnu-objdump -d powerpc > powerpc.objdump
