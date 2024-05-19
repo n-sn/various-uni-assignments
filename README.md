@@ -1,0 +1,1 @@
+This repository shows examples of code writeen by me as part of university assignments. Some university assignments contain code that is not mine, but mainly it is my code. Most of the Java code was written between 2016 and 2020 and most of the Python code was written between 2020 and 2024. 
